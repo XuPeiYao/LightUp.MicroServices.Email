@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LightUp.MicroServices.Email": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
